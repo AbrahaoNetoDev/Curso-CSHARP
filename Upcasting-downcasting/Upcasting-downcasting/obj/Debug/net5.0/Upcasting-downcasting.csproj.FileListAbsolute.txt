@@ -1,0 +1,16 @@
+C:\Users\abrah\Curso_C#\Upcasting-downcasting\Upcasting-downcasting\bin\Debug\net5.0\Upcasting-downcasting.exe
+C:\Users\abrah\Curso_C#\Upcasting-downcasting\Upcasting-downcasting\bin\Debug\net5.0\Upcasting-downcasting.deps.json
+C:\Users\abrah\Curso_C#\Upcasting-downcasting\Upcasting-downcasting\bin\Debug\net5.0\Upcasting-downcasting.runtimeconfig.json
+C:\Users\abrah\Curso_C#\Upcasting-downcasting\Upcasting-downcasting\bin\Debug\net5.0\Upcasting-downcasting.runtimeconfig.dev.json
+C:\Users\abrah\Curso_C#\Upcasting-downcasting\Upcasting-downcasting\bin\Debug\net5.0\Upcasting-downcasting.dll
+C:\Users\abrah\Curso_C#\Upcasting-downcasting\Upcasting-downcasting\bin\Debug\net5.0\ref\Upcasting-downcasting.dll
+C:\Users\abrah\Curso_C#\Upcasting-downcasting\Upcasting-downcasting\bin\Debug\net5.0\Upcasting-downcasting.pdb
+C:\Users\abrah\Curso_C#\Upcasting-downcasting\Upcasting-downcasting\obj\Debug\net5.0\Upcasting-downcasting.csproj.AssemblyReference.cache
+C:\Users\abrah\Curso_C#\Upcasting-downcasting\Upcasting-downcasting\obj\Debug\net5.0\Upcasting-downcasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abrah\Curso_C#\Upcasting-downcasting\Upcasting-downcasting\obj\Debug\net5.0\Upcasting-downcasting.AssemblyInfoInputs.cache
+C:\Users\abrah\Curso_C#\Upcasting-downcasting\Upcasting-downcasting\obj\Debug\net5.0\Upcasting-downcasting.AssemblyInfo.cs
+C:\Users\abrah\Curso_C#\Upcasting-downcasting\Upcasting-downcasting\obj\Debug\net5.0\Upcasting-downcasting.csproj.CoreCompileInputs.cache
+C:\Users\abrah\Curso_C#\Upcasting-downcasting\Upcasting-downcasting\obj\Debug\net5.0\Upcasting-downcasting.dll
+C:\Users\abrah\Curso_C#\Upcasting-downcasting\Upcasting-downcasting\obj\Debug\net5.0\ref\Upcasting-downcasting.dll
+C:\Users\abrah\Curso_C#\Upcasting-downcasting\Upcasting-downcasting\obj\Debug\net5.0\Upcasting-downcasting.pdb
+C:\Users\abrah\Curso_C#\Upcasting-downcasting\Upcasting-downcasting\obj\Debug\net5.0\Upcasting-downcasting.genruntimeconfig.cache

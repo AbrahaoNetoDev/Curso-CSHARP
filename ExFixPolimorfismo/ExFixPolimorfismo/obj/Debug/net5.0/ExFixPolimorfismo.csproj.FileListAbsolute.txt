@@ -1,0 +1,16 @@
+C:\Users\abrah\Curso_C#\ExFixPolimorfismo\ExFixPolimorfismo\bin\Debug\net5.0\ExFixPolimorfismo.exe
+C:\Users\abrah\Curso_C#\ExFixPolimorfismo\ExFixPolimorfismo\bin\Debug\net5.0\ExFixPolimorfismo.deps.json
+C:\Users\abrah\Curso_C#\ExFixPolimorfismo\ExFixPolimorfismo\bin\Debug\net5.0\ExFixPolimorfismo.runtimeconfig.json
+C:\Users\abrah\Curso_C#\ExFixPolimorfismo\ExFixPolimorfismo\bin\Debug\net5.0\ExFixPolimorfismo.runtimeconfig.dev.json
+C:\Users\abrah\Curso_C#\ExFixPolimorfismo\ExFixPolimorfismo\bin\Debug\net5.0\ExFixPolimorfismo.dll
+C:\Users\abrah\Curso_C#\ExFixPolimorfismo\ExFixPolimorfismo\bin\Debug\net5.0\ref\ExFixPolimorfismo.dll
+C:\Users\abrah\Curso_C#\ExFixPolimorfismo\ExFixPolimorfismo\bin\Debug\net5.0\ExFixPolimorfismo.pdb
+C:\Users\abrah\Curso_C#\ExFixPolimorfismo\ExFixPolimorfismo\obj\Debug\net5.0\ExFixPolimorfismo.csproj.AssemblyReference.cache
+C:\Users\abrah\Curso_C#\ExFixPolimorfismo\ExFixPolimorfismo\obj\Debug\net5.0\ExFixPolimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abrah\Curso_C#\ExFixPolimorfismo\ExFixPolimorfismo\obj\Debug\net5.0\ExFixPolimorfismo.AssemblyInfoInputs.cache
+C:\Users\abrah\Curso_C#\ExFixPolimorfismo\ExFixPolimorfismo\obj\Debug\net5.0\ExFixPolimorfismo.AssemblyInfo.cs
+C:\Users\abrah\Curso_C#\ExFixPolimorfismo\ExFixPolimorfismo\obj\Debug\net5.0\ExFixPolimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\abrah\Curso_C#\ExFixPolimorfismo\ExFixPolimorfismo\obj\Debug\net5.0\ExFixPolimorfismo.dll
+C:\Users\abrah\Curso_C#\ExFixPolimorfismo\ExFixPolimorfismo\obj\Debug\net5.0\ref\ExFixPolimorfismo.dll
+C:\Users\abrah\Curso_C#\ExFixPolimorfismo\ExFixPolimorfismo\obj\Debug\net5.0\ExFixPolimorfismo.pdb
+C:\Users\abrah\Curso_C#\ExFixPolimorfismo\ExFixPolimorfismo\obj\Debug\net5.0\ExFixPolimorfismo.genruntimeconfig.cache

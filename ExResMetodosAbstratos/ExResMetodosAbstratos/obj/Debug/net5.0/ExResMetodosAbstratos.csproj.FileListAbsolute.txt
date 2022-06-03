@@ -1,0 +1,16 @@
+C:\Users\abrah\Curso_C#\ExResMetodosAbstratos\ExResMetodosAbstratos\obj\Debug\net5.0\ExResMetodosAbstratos.csproj.AssemblyReference.cache
+C:\Users\abrah\Curso_C#\ExResMetodosAbstratos\ExResMetodosAbstratos\obj\Debug\net5.0\ExResMetodosAbstratos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abrah\Curso_C#\ExResMetodosAbstratos\ExResMetodosAbstratos\obj\Debug\net5.0\ExResMetodosAbstratos.AssemblyInfoInputs.cache
+C:\Users\abrah\Curso_C#\ExResMetodosAbstratos\ExResMetodosAbstratos\obj\Debug\net5.0\ExResMetodosAbstratos.AssemblyInfo.cs
+C:\Users\abrah\Curso_C#\ExResMetodosAbstratos\ExResMetodosAbstratos\obj\Debug\net5.0\ExResMetodosAbstratos.csproj.CoreCompileInputs.cache
+C:\Users\abrah\Curso_C#\ExResMetodosAbstratos\ExResMetodosAbstratos\bin\Debug\net5.0\ExResMetodosAbstratos.exe
+C:\Users\abrah\Curso_C#\ExResMetodosAbstratos\ExResMetodosAbstratos\bin\Debug\net5.0\ExResMetodosAbstratos.deps.json
+C:\Users\abrah\Curso_C#\ExResMetodosAbstratos\ExResMetodosAbstratos\bin\Debug\net5.0\ExResMetodosAbstratos.runtimeconfig.json
+C:\Users\abrah\Curso_C#\ExResMetodosAbstratos\ExResMetodosAbstratos\bin\Debug\net5.0\ExResMetodosAbstratos.runtimeconfig.dev.json
+C:\Users\abrah\Curso_C#\ExResMetodosAbstratos\ExResMetodosAbstratos\bin\Debug\net5.0\ExResMetodosAbstratos.dll
+C:\Users\abrah\Curso_C#\ExResMetodosAbstratos\ExResMetodosAbstratos\bin\Debug\net5.0\ref\ExResMetodosAbstratos.dll
+C:\Users\abrah\Curso_C#\ExResMetodosAbstratos\ExResMetodosAbstratos\bin\Debug\net5.0\ExResMetodosAbstratos.pdb
+C:\Users\abrah\Curso_C#\ExResMetodosAbstratos\ExResMetodosAbstratos\obj\Debug\net5.0\ExResMetodosAbstratos.dll
+C:\Users\abrah\Curso_C#\ExResMetodosAbstratos\ExResMetodosAbstratos\obj\Debug\net5.0\ref\ExResMetodosAbstratos.dll
+C:\Users\abrah\Curso_C#\ExResMetodosAbstratos\ExResMetodosAbstratos\obj\Debug\net5.0\ExResMetodosAbstratos.pdb
+C:\Users\abrah\Curso_C#\ExResMetodosAbstratos\ExResMetodosAbstratos\obj\Debug\net5.0\ExResMetodosAbstratos.genruntimeconfig.cache

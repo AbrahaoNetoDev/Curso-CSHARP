@@ -1,0 +1,16 @@
+C:\Users\abrah\Curso_C#\ExFixHerancaPolimorfismo\ExFixHerancaPolimorfismo\bin\Debug\net5.0\ExFixHerancaPolimorfismo.exe
+C:\Users\abrah\Curso_C#\ExFixHerancaPolimorfismo\ExFixHerancaPolimorfismo\bin\Debug\net5.0\ExFixHerancaPolimorfismo.deps.json
+C:\Users\abrah\Curso_C#\ExFixHerancaPolimorfismo\ExFixHerancaPolimorfismo\bin\Debug\net5.0\ExFixHerancaPolimorfismo.runtimeconfig.json
+C:\Users\abrah\Curso_C#\ExFixHerancaPolimorfismo\ExFixHerancaPolimorfismo\bin\Debug\net5.0\ExFixHerancaPolimorfismo.runtimeconfig.dev.json
+C:\Users\abrah\Curso_C#\ExFixHerancaPolimorfismo\ExFixHerancaPolimorfismo\bin\Debug\net5.0\ExFixHerancaPolimorfismo.dll
+C:\Users\abrah\Curso_C#\ExFixHerancaPolimorfismo\ExFixHerancaPolimorfismo\bin\Debug\net5.0\ref\ExFixHerancaPolimorfismo.dll
+C:\Users\abrah\Curso_C#\ExFixHerancaPolimorfismo\ExFixHerancaPolimorfismo\bin\Debug\net5.0\ExFixHerancaPolimorfismo.pdb
+C:\Users\abrah\Curso_C#\ExFixHerancaPolimorfismo\ExFixHerancaPolimorfismo\obj\Debug\net5.0\ExFixHerancaPolimorfismo.csproj.AssemblyReference.cache
+C:\Users\abrah\Curso_C#\ExFixHerancaPolimorfismo\ExFixHerancaPolimorfismo\obj\Debug\net5.0\ExFixHerancaPolimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abrah\Curso_C#\ExFixHerancaPolimorfismo\ExFixHerancaPolimorfismo\obj\Debug\net5.0\ExFixHerancaPolimorfismo.AssemblyInfoInputs.cache
+C:\Users\abrah\Curso_C#\ExFixHerancaPolimorfismo\ExFixHerancaPolimorfismo\obj\Debug\net5.0\ExFixHerancaPolimorfismo.AssemblyInfo.cs
+C:\Users\abrah\Curso_C#\ExFixHerancaPolimorfismo\ExFixHerancaPolimorfismo\obj\Debug\net5.0\ExFixHerancaPolimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\abrah\Curso_C#\ExFixHerancaPolimorfismo\ExFixHerancaPolimorfismo\obj\Debug\net5.0\ExFixHerancaPolimorfismo.dll
+C:\Users\abrah\Curso_C#\ExFixHerancaPolimorfismo\ExFixHerancaPolimorfismo\obj\Debug\net5.0\ref\ExFixHerancaPolimorfismo.dll
+C:\Users\abrah\Curso_C#\ExFixHerancaPolimorfismo\ExFixHerancaPolimorfismo\obj\Debug\net5.0\ExFixHerancaPolimorfismo.pdb
+C:\Users\abrah\Curso_C#\ExFixHerancaPolimorfismo\ExFixHerancaPolimorfismo\obj\Debug\net5.0\ExFixHerancaPolimorfismo.genruntimeconfig.cache
