@@ -23,6 +23,10 @@ namespace treinar
 
             //08 - Informe qual é o menor valor impar da lista.
 
+            //09 - Informe o menor valor par positivo.
+
+            //10 - Informe o maior valor impar negativo.
+
 
             //var valores = new Int32[20] { -15, -2, 21, -8, 59, -81, 3, 4, -36, 7, 5, 92, -1, -78, -9, -59, 82, -3, -46, 38 };
 
@@ -137,27 +141,56 @@ namespace treinar
 
             //Console.WriteLine("Maior valor: " + maiorValor);
 
+            //var valores = new Int32[20] { -15, -2, 21, -8, 59, -81, 3, 4, -36, 7, 5, 92, -1, -78, -9, -59, 82, -3, -46, 38 };
+
+            //int menorValor = 100;
+
+            //for (int i = 0; i < valores.Length; i++)
+            //{
+            //    if (valores[i] < menorValor && valores[i] % 2 != 0)
+            //    {
+            //        menorValor = valores[i];
+            //    }
+
+            //    for ( int j = i + 1; j < valores.Length; j++)
+            //    {
+            //        if (valores[j] < menorValor && valores[j] % 2 != 0)
+            //        {
+            //            menorValor = valores[j];
+            //        }
+            //    }
+            //}
+
+            //Console.WriteLine("Menor valor: " + menorValor);
+
+            //var valores = new Int32[20] { -15, -2, 21, -8, 59, -81, 3, 4, -36, 7, 5, 92, -1, -78, -9, -59, 82, -3, -46, 38 };
+
+            //int menorValor = 100;
+
+            //for (int i = 0; i < valores.Length; i++)
+            //{
+            //    if (valores[i] < menorValor && valores[i] % 2 == 0 && valores[i] > 0)
+            //    {
+            //        menorValor = valores[i];
+            //    }
+            //}
+
+            //Console.WriteLine("Menor valor: " + menorValor);
+
             var valores = new Int32[20] { -15, -2, 21, -8, 59, -81, 3, 4, -36, 7, 5, 92, -1, -78, -9, -59, 82, -3, -46, 38 };
 
-            int menorValor = 0;
+            int maiorValor = -100;
 
             for (int i = 0; i < valores.Length; i++)
             {
-                if (valores[i] < menorValor && valores[i] % 2 != 0)
+                if (valores[i] > maiorValor && valores[i] % 2 != 0 && valores[i] < 0)
                 {
-                    menorValor = valores[i];
-                }
-
-                for ( int j = i + 1; j < valores.Length; j++)
-                {
-                    if (valores[j] < menorValor && valores[j] % 2 != 0)
-                    {
-                        menorValor = valores[j];
-                    }
+                    maiorValor = valores[i];
                 }
             }
 
-            Console.WriteLine("Menor valor: " + menorValor);
+            Console.WriteLine("Maior valor: " + maiorValor);
         }
     }
 }
+
